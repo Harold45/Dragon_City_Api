@@ -10,9 +10,9 @@ El objetivo principal es demostrar la capacidad de **consumo de servicios web**,
 * **Manejo de Respuestas:** Procesamiento eficiente de peticiones HTTP y estructuración de la respuesta para el cliente.
 
 ## 🛠️ Tecnologías Utilizadas
-* **Lenguaje:** [Pon aquí el lenguaje, ej: Python / JavaScript / Java]
+* **Lenguaje:** CSS/ JavaScript / HTML
 * **Formato de Datos:** JSON
-* **Herramientas:** [Ej: Postman, Fetch API, Requests]
+* **Herramientas:** Postman, Fetch API, Requests, Node.js, Visual Code
 
 ---
 **Estado del proyecto:** Finalizado.
